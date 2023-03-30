@@ -14611,7 +14611,7 @@ div#featured-project-carousel {
   background: #212427;
 }
 .personal-experience-inner .experience-list .resume-single-list:hover .inner .heading .title h4 {
-  color: var(--color-white);
+  color: #ff014f;
 }
 .personal-experience-inner .experience-list .resume-single-list:hover .inner .heading .date-of-time span {
   background: #1e2025;
